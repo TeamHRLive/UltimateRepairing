@@ -1,6 +1,6 @@
-package com.craftaro.ultimaterepairing.anvil;
+package com.songoda.ultimaterepairing.anvil;
 
-import com.craftaro.ultimaterepairing.repair.RepairType;
+import com.songoda.ultimaterepairing.repair.RepairType;
 import org.bukkit.Location;
 import org.bukkit.entity.Item;
 import org.bukkit.inventory.ItemStack;

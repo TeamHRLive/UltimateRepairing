@@ -1,12 +1,12 @@
-package com.craftaro.ultimaterepairing.utils;
+package com.songoda.ultimaterepairing.utils;
 
-import com.craftaro.core.compatibility.CompatibleMaterial;
-import com.craftaro.core.compatibility.ServerVersion;
-import com.craftaro.third_party.com.cryptomorin.xseries.XMaterial;
-import com.craftaro.ultimaterepairing.UltimateRepairing;
-import com.craftaro.core.math.MathUtils;
-import com.craftaro.ultimaterepairing.repair.RepairType;
-import com.craftaro.ultimaterepairing.settings.Settings;
+import com.songoda.core.compatibility.CompatibleMaterial;
+import com.songoda.core.compatibility.ServerVersion;
+import com.songoda.third_party.com.cryptomorin.xseries.XMaterial;
+import com.songoda.ultimaterepairing.UltimateRepairing;
+import com.songoda.core.math.MathUtils;
+import com.songoda.ultimaterepairing.repair.RepairType;
+import com.songoda.ultimaterepairing.settings.Settings;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.Material;

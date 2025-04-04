@@ -1,9 +1,9 @@
 name: UltimateRepairing
 description: UltimateRepairing
-main: com.craftaro.ultimaterepairing.UltimateRepairing
+main: com.songoda.ultimaterepairing.UltimateRepairing
 softdepend: [ HolographicDisplays, Vault ]
 version: maven-version-number
-author: Craftaro
+author: Songoda
 api-version: 1.13
 
 commands:

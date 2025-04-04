@@ -1,12 +1,11 @@
-package com.craftaro.ultimaterepairing.settings;
+package com.songoda.ultimaterepairing.settings;
 
-import com.craftaro.core.compatibility.CompatibleMaterial;
-import com.craftaro.third_party.com.cryptomorin.xseries.XMaterial;
-import com.craftaro.ultimaterepairing.UltimateRepairing;
-import com.craftaro.core.configuration.Config;
-import com.craftaro.core.configuration.ConfigSetting;
-import com.craftaro.core.hooks.EconomyManager;
-import com.craftaro.core.hooks.HologramManager;
+import com.songoda.core.compatibility.CompatibleMaterial;
+import com.songoda.ultimaterepairing.UltimateRepairing;
+import com.songoda.core.configuration.Config;
+import com.songoda.core.configuration.ConfigSetting;
+import com.songoda.core.hooks.EconomyManager;
+import com.songoda.core.hooks.HologramManager;
 
 import java.util.stream.Collectors;
 

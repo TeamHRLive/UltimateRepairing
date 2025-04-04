@@ -1,10 +1,10 @@
-package com.craftaro.ultimaterepairing.task;
+package com.songoda.ultimaterepairing.task;
 
-import com.craftaro.core.compatibility.CompatibleParticleHandler;
-import com.craftaro.core.compatibility.CompatibleParticleHandler.ParticleType;
-import com.craftaro.ultimaterepairing.UltimateRepairing;
-import com.craftaro.ultimaterepairing.anvil.UAnvil;
-import com.craftaro.ultimaterepairing.settings.Settings;
+import com.songoda.core.compatibility.CompatibleParticleHandler;
+import com.songoda.core.compatibility.CompatibleParticleHandler.ParticleType;
+import com.songoda.ultimaterepairing.UltimateRepairing;
+import com.songoda.ultimaterepairing.anvil.UAnvil;
+import com.songoda.ultimaterepairing.settings.Settings;
 import org.bukkit.scheduler.BukkitRunnable;
 
 import java.util.List;

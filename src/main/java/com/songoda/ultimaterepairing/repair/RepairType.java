@@ -1,7 +1,7 @@
-package com.craftaro.ultimaterepairing.repair;
+package com.songoda.ultimaterepairing.repair;
 
-import com.craftaro.third_party.com.cryptomorin.xseries.XMaterial;
-import com.craftaro.ultimaterepairing.UltimateRepairing;
+import com.songoda.third_party.com.cryptomorin.xseries.XMaterial;
+import com.songoda.ultimaterepairing.UltimateRepairing;
 import org.bukkit.entity.Player;
 
 public enum RepairType {

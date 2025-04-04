@@ -1,11 +1,11 @@
-package com.craftaro.ultimaterepairing.listeners;
+package com.songoda.ultimaterepairing.listeners;
 
-import com.craftaro.ultimaterepairing.UltimateRepairing;
-import com.craftaro.ultimaterepairing.anvil.UAnvil;
-import com.craftaro.ultimaterepairing.gui.AnvilSettingsGui;
-import com.craftaro.ultimaterepairing.gui.RepairGui;
-import com.craftaro.core.gui.GuiManager;
-import com.craftaro.ultimaterepairing.settings.Settings;
+import com.songoda.ultimaterepairing.UltimateRepairing;
+import com.songoda.ultimaterepairing.anvil.UAnvil;
+import com.songoda.ultimaterepairing.gui.AnvilSettingsGui;
+import com.songoda.ultimaterepairing.gui.RepairGui;
+import com.songoda.core.gui.GuiManager;
+import com.songoda.ultimaterepairing.settings.Settings;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

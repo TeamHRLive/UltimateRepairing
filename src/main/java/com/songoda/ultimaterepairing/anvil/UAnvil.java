@@ -1,8 +1,8 @@
-package com.craftaro.ultimaterepairing.anvil;
+package com.songoda.ultimaterepairing.anvil;
 
-import com.craftaro.ultimaterepairing.UltimateRepairing;
-import com.craftaro.core.hooks.HologramManager;
-import com.craftaro.ultimaterepairing.settings.Settings;
+import com.songoda.ultimaterepairing.UltimateRepairing;
+import com.songoda.core.hooks.HologramManager;
+import com.songoda.ultimaterepairing.settings.Settings;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.World;

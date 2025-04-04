@@ -1,9 +1,9 @@
-package com.craftaro.ultimaterepairing.commands;
+package com.songoda.ultimaterepairing.commands;
 
-import com.craftaro.ultimaterepairing.UltimateRepairing;
-import com.craftaro.core.commands.AbstractCommand;
-import com.craftaro.core.configuration.editor.PluginConfigGui;
-import com.craftaro.core.gui.GuiManager;
+import com.songoda.ultimaterepairing.UltimateRepairing;
+import com.songoda.core.commands.AbstractCommand;
+import com.songoda.core.configuration.editor.PluginConfigGui;
+import com.songoda.core.gui.GuiManager;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 

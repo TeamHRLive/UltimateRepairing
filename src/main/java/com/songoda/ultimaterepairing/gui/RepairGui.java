@@ -1,13 +1,13 @@
-package com.craftaro.ultimaterepairing.gui;
+package com.songoda.ultimaterepairing.gui;
 
-import com.craftaro.ultimaterepairing.UltimateRepairing;
-import com.craftaro.ultimaterepairing.utils.Methods;
-import com.craftaro.core.gui.Gui;
-import com.craftaro.core.gui.GuiUtils;
-import com.craftaro.core.utils.ItemUtils;
-import com.craftaro.core.utils.TextUtils;
-import com.craftaro.ultimaterepairing.repair.RepairType;
-import com.craftaro.ultimaterepairing.settings.Settings;
+import com.songoda.ultimaterepairing.UltimateRepairing;
+import com.songoda.ultimaterepairing.utils.Methods;
+import com.songoda.core.gui.Gui;
+import com.songoda.core.gui.GuiUtils;
+import com.songoda.core.utils.ItemUtils;
+import com.songoda.core.utils.TextUtils;
+import com.songoda.ultimaterepairing.repair.RepairType;
+import com.songoda.ultimaterepairing.settings.Settings;
 import org.bukkit.Location;
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
